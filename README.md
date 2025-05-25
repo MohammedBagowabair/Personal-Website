@@ -51,7 +51,8 @@ This is a responsive **Personal Portfolio Website** project built using **HTML**
 
 ## 🖼️ Preview
 
-![Portfolio Screenshot](screenshot.png) <!-- Replace with actual preview -->
+![Portfolio Screenshot](https://github.com/MohammedBagowabair/personal-website/blob/6f4c5348640d638645d4fd9b27352a3b961e4736/1.png)
+![Portfolio Screenshot](https://github.com/MohammedBagowabair/personal-website/blob/6f4c5348640d638645d4fd9b27352a3b961e4736/3.png)
 
 ---
 
