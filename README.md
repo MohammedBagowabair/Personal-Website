@@ -12,6 +12,11 @@ This is a responsive **Personal Portfolio Website** project built using **HTML**
 
 🔗 **Live Preview**: [mohammedbagowabair.github.io/personal-website](https://mohammedbagowabair.github.io/personal-website/)
 
+## 🌟 Support the Project
+
+⭐ [Star us on GitHub](https://github.com/MohammedBagowabair/personal-website) — your support fuels further development!
+
+[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mohammed-bagowabair-77a0a72aa)
 ---
 
 ## 🧩 Features
@@ -51,8 +56,10 @@ This is a responsive **Personal Portfolio Website** project built using **HTML**
 
 ## 🖼️ Preview
 
-![Portfolio Screenshot](https://github.com/MohammedBagowabair/personal-website/blob/6f4c5348640d638645d4fd9b27352a3b961e4736/1.png)
-![Portfolio Screenshot](https://github.com/MohammedBagowabair/personal-website/blob/6f4c5348640d638645d4fd9b27352a3b961e4736/3.png)
+
+![Portfolio Screenshot](https://github.com/MohammedBagowabair/personal-website/blob/8397c60fd68fc21cee2bffd4961a6c12588bfc73/1.png)
+![Portfolio Screenshot](https://github.com/MohammedBagowabair/personal-website/blob/8397c60fd68fc21cee2bffd4961a6c12588bfc73/2.png)
+![Portfolio Screenshot](https://github.com/MohammedBagowabair/personal-website/blob/8397c60fd68fc21cee2bffd4961a6c12588bfc73/3.png)
 
 ---
 
